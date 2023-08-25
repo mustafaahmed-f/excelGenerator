@@ -1,3 +1,7 @@
-# excelGenerator
-Simple excel generator with smart alerts if there is any errors. 
-You can find two input fields, one for rows and the other one for columns. These values are used to generate table. After that you can start typing in the input fields generated in the form of table and finally you can press the export button to create your excel file. 
+# excel-sheet-generator
+
+hello there, your task is to use sweetalert.js to display an alert when the user clicks "generate" while the fields are empty, and when the user clicks "export" but there is no generated table to be exported.
+
+fork the repository and start working on it.
+
+best of luck.
